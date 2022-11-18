@@ -12,5 +12,8 @@ Jupyter Notebook : ``` pip install notebook ```
 - seaborn :     ``` pip install seaborn ```
 - Matplotlib :  ``` pip install matplotlib ```
 - Pickle :      ``` pip install pickle5 ```
+- Kivy :        ``` pip install "kivy[base]" kivy_examples --no-binary kivy ```
+
+
 
 
