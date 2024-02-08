@@ -3,7 +3,7 @@
 <h1>Make a Pneumonia detection system using Machine learning </h1>
 <p>Using CNN, I made a pneumonia detection software tha takes X-ray scans as input and gives you the scan result as an output</p>
 
-<h4> <span> · </span> <a href="https://github.com/Hephaestus27/Pneumonia Detection using CNN/blob/master/README.md"> Documentation </a> <span> · </span> <a href="https://github.com/Hephaestus27/Pneumonia Detection using CNN/issues"> Report Bug </a> <span> · </span> <a href="https://github.com/Hephaestus27/Pneumonia Detection using CNN/issues"> Request Feature </a> </h4>
+<h4> <span> · </span> <a href="https://github.com/Hephaestus27/Pneumonia-Detection-using-CNN/blob/master/README.md"> Documentation </a> <span> · </span> <a href="https://github.com/Hephaestus27/Pneumonia-Detection-using-CNN/issues"> Report Bug </a> <span> · </span> <a href="https://github.com/Hephaestus27/Pneumonia-Detection-using-CNN/issues"> Request Feature </a> </h4>
 
 
 </div>
@@ -38,11 +38,7 @@ Jupyter Notebook : ``` pip install notebook ```
 <a href="https://github.com/Hephaestus27/Pneumonia-Detection-using-CNN/graphs/contributors"> <img src="https://contrib.rocks/image?repo=Louis3797/awesome-readme-template" /> </a>
 
 Contributions are always welcome!
-
-### :scroll: Code of Conduct
-
-Please read the [Code of Conduct](https://github.com/Hephaestus27/Pneumonia-Detection-using-CNN/blob/master/CODE_OF_CONDUCT.md)
-
+ 
 ## :warning: License
 
 Distributed under the no License. See LICENSE.txt for more information.
